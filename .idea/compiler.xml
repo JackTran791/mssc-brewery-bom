@@ -2,7 +2,7 @@
 <project version="4">
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="mssc-brewery-bom" options="-parameters" />
+      <module name="mssc-brewery-bom" options="" />
     </option>
   </component>
 </project>
